@@ -1,50 +1,53 @@
-Input job to be done = monitoring and paying energy bills
-Input customer description = a family consisting of two adults and two children with average income who are renting anu apartment in a big city
+Input job to be done = need assistance in navigating the commercialization process to bring their inventions to the market.
+Input customer description = researchers at Danish and Nordic universities, who are pioneering innovative deeptech inventions
 
 GPT output hardest part of job to be done = 
 
-The hardest part about monitoring and paying energy bills for a family of two adults and two children renting an apartment in a big city is trying to keep costs under control. Big city living is expensive, and energy costs can add up quickly. It is important to be aware of energy usage and find ways to conserve, such as using LED light bulbs, unplugging appliances when not in use, and using the most efficient appliances available. Additionally, it can be difficult to stay up to date with energy bills and make sure that payments are made on time to avoid late fees and penalties.
+The hardest part about navigating the commercialization process is understanding the regulatory framework for the industry in which you are trying to operate. The regulatory environment for deeptech is often complex and can vary greatly from country to country. Additionally, the funding requirements for commercializing a deeptech invention can be high, and it can be difficult to secure the necessary funding. Furthermore, it can be difficult to identify potential partners or buyers for the invention, as well as potential investors or distributors. Finally, it can be challenging to understand the competitive landscape and how to differentiate the invention from other products on the market.
 
 GPT output value proposition = 
 
-Our startup offers a unique value proposition for families in a big city who are trying to manage their energy costs. Our platform will provide real-time monitoring and insights into energy usage, helping you to understand what you’re using and how you can save money. We’ll also make it easy to pay your energy bills on time, with automatic payments and reminders to help you stay on top of bills. Our platform is easy to use, and with our helpful tools and resources, you’ll be able to manage your energy costs with confidence.
+Our unique value proposition is to provide a comprehensive solution for deeptech commercialization. Our startup provides an end-to-end platform that combines regulatory guidance, financial resources, market analysis, and partnership identification to simplify the commercialization process. We provide a single source for all the tools needed to successfully take a deeptech invention all the way from concept to commercialization. By leveraging our platform, deeptech inventors can save time, money, and resources, while getting the support they need to take their invention to market.
 
-GPT output value proposition canvas = , key activities, channels, customer relationships, revenue streams and cost structure. 
+GPT output value proposition canvas =  and unique value proposition.
 
-Customer Jobs: Families in a big city want to manage their energy costs without taking too much time or effort. 
+Customer Jobs: 
+DeepTech inventors need the tools and resources to successfully bring their invention to market. 
 
-Customer Pains: Difficulty understanding energy usage and when bills are due, or how to save money on energy costs. 
+Customer Pains: 
+Time consuming and expensive process, lack of access to resources and guidance, and difficulty connecting to potential partners. 
 
-Customer Gains: Able to understand usage and save money on energy costs, knowing when bills are due and being able to pay them on time.
+Customer Gains: 
+Save time and money, increase success rate, and receive the support needed for commercialization. 
 
-Products and Services: Real-time monitoring and insights into energy usage, automatic payments and reminders to help pay bills on time, helpful tools and resources to manage energy costs.
+Products/Services: 
+An end-to-end platform combining regulatory guidance, financial resources, market analysis, and partnership identification to simplify the commercialization process. 
 
-Pain Relievers: Real-time insights and monitoring, helpful tools and resources to understand and manage energy costs, automatic payments and reminders to pay bills on time.
+Pain Relievers: 
+Single source for all the tools needed to bring a deeptech invention to market, no need to search multiple sources for resources, and access to expert advice and guidance. 
 
-Gain Creators: The ability to understand usage and save money on energy costs, knowing when bills are due and being able to pay them on time.
+Gain Creators: 
+Reduce time spent on commercialization process, reduce financial burden and risk, and access to potential partners. 
 
-Key Activities: Developing user friendly platform, providing helpful tools and resources, creating automatic payment and reminder systems.
-
-Channels: Mobile App, website, social media and digital marketing.
-
-Customer Relationships: Automated and personalized customer service, and providing
+Unique Value Proposition: 
+Our platform provides an end-to-end solution for deeptech commercialization, combining regulatory guidance, financial resources, market analysis, and partnership identification to simplify the commercialization process and support deeptech inventors in their journey to success.
 
 GPT output most similar competitors = 
 
-1. WattTime, Oakland, CA, https://watttime.org/
-2. ohmconnect, San Francisco, CA, https://www.ohmconnect.com/
-3. EnergyHub, New York, NY, https://energyhub.com/
+1. LaunchPad Central, New York, NY, www.launchpadcentral.co
+2. Blue Sage, Austin, TX, www.bluesage.com
+3. Xceptor, London, UK, www.xceptor.com
 
-GPT output company description competitor 1 = WattTime is an environmental tech nonprofit that empowers all people, companies, policymakers, and countries to slash emissions and choose cleaner energy. The founders are Gavin McCormick, Danielle Fugere, and Alexander “Sandy” MacDonald.
+GPT output company description competitor 1 = LaunchPad Central is an innovation management software founded by Dr. Tina Klein.
 
-GPT output company description competitor 2 = OhmConnect's mission is to rally people to change how and when they use electricity to unlock clean, affordable and reliable energy. The founders of ohmconnect are Matt Duesterberg and Curtis Tongue.
+GPT output company description competitor 2 = Blue Sage is a leading Austin, Texas-based private equity firm with over $400 million in assets under management, specializing in growth, recapitalization and buyout financings of small middle-market companies. The founders of Blue Sage are Carmine Cacciavillani and Palisades' founder and president.
 
-GPT output company description competitor 3 = EnergyHub Inc (EnergyHub), a subsidiary of Alarmcom Holdings Inc, is a technology-based company that offers cloud-based energy management software platform solutions. It provides turnkey demand response program services and energy management services to access energy usage information. The founders of EnergyHub are Seth and Matt.
+GPT output company description competitor 3 = Xceptor is a data automation platform that empowers business users to solve a range of complex data automation scenarios. The founders of Xceptor are Professor Eran Edirisinghe and Dan Reid.
 
-GPT output hypotheses = 
+GPT output hypotheses =  
 
-Hypothesis 1: Families in a big city are willing to pay for a platform that provides real-time monitoring and insights into energy usage, helping them to understand what they’re using and how they can save money. 
+Hypothesis 1: Customers are willing to pay for a comprehensive solution for deeptech commercialization.
 
-Hypothesis 2: Families in a big city prefer a mobile app as the primary channel for accessing the platform. 
+Hypothesis 2: The preferred distribution model for our solution is subscription-based. 
 
-Hypothesis 3: The ultimate customer segment for this platform is families in big cities who are already actively seeking out energy saving solutions.
+Hypothesis 3: The ultimate customer segment for our solution is companies with deeptech inventions in need of commercialization assistance.
